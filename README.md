@@ -28,11 +28,11 @@ When you make a contribution that improved the Polkadot developer ecosystem, you
 In that file, you should add a new entry with the following information:
 
 ```json
-	{
-		"author": "<github username>",
-		"description": "<short description of problem solved / work done",
-		"evidence": "<github pull request url>"
-	}
+{
+	"author": "<github username>",
+	"description": "<short description of problem solved / work done",
+	"evidence": "<github pull request url>"
+}
 ```
 
 Then in the body of your pull request you must be sure to include the text:
@@ -44,6 +44,8 @@ polkadot address: <SS58 Address>
 Curators of this repo will review your work and either accept or reject your pull request, to keep track of the work done by the community.
 
 The author of the github pull request must match the author of the evidence so that there is no chance that someone is claiming credit for someone else's work.
+
+You can see an example of a simple submission here: https://github.com/substrate-developer-hub/bounties/pull/1
 
 ### Rewards
 
@@ -60,6 +62,8 @@ You should review the `substrate-tip-bot` project to get the latest details on t
 This does NOT automatically pay the contributor, but simply submits a proposal to Polkadot which is reviewed by OpenGov.
 
 Note that it is possible that even after your contribution is accepted here, it may be possible that OpenGov rejects the tip. However, we assume that the quality and size of tips approved by the curators will lead to a high acceptance rate by the Polkadot governance.
+
+You can see on-chain activity of the tip bot account here: https://polkadot.subscan.io/account/14Sbk1RvKa9x7k8CThWoEYKA21LDduRbcivnzkDdm2WnDutM
 
 ## Rules
 
