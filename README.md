@@ -28,11 +28,11 @@ When you make a contribution that improved the Polkadot developer ecosystem, you
 In that file, you should add a new entry with the following information:
 
 ```json
-	{
-		"author": "<github username>",
-		"description": "<short description of problem solved / work done",
-		"evidence": "<github pull request url>"
-	}
+{
+	"author": "<github username>",
+	"description": "<short description of problem solved / work done",
+	"evidence": "<github pull request url>"
+}
 ```
 
 Then in the body of your pull request you must be sure to include the text:
