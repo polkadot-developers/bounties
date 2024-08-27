@@ -12,7 +12,7 @@ This means that maintaining high quality developer documentation and resources i
 
 The goal of this repository is to coordinate and incentivize community driven development and maintenance of the Polkadot ecosystem.
 
-Here, you will find ways to contribute to the Polkadot developer ecosystem, either by noting issues
+Here, you will find ways to contribute to the Polkadot developer ecosystem and be rewarded for that work.
 
 ## How
 
@@ -84,7 +84,7 @@ As such, it is important to establish rules defining the expected conduct around
 
 3. No double dipping.
 
-	Submitters should not be paid multiple times for doing the same work. This means that if you already received a tip or bounty reward for some fix, you should not submit it again here. Similarly, if you are an owner of an open source project and are being funded already, you should not submit another request here. This is really for community members to earn small rewards for actively
+	Submitters should not be paid multiple times for doing the same work. This means that if you already received a tip or bounty reward for some fix, you should not submit it again here. Similarly, if you are an owner of an open source project and are being funded already, you should not submit another request here. This is really for community members to earn small rewards for actively fixing issues that would otherwise go unnoticed.
 
 4. No spamming.
 
