@@ -1,1 +1,7 @@
-[]
+[
+	{
+		"author": "shawntabrizi",
+		"description": "Updated zombienet instructions to include NPM and MacOS install instructions.",
+		"evidence": "https://github.com/paritytech/zombienet/pull/1842"
+	}
+]
