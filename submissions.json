@@ -1,5 +1,10 @@
 [
 	{
+		"author": "hippiestank",
+		"description": "Tutorial Review",
+		"evidence": "https://github.com/wirednkod/papi-intro-tutorial/issues/5#issue-2642374360"
+	}
+	{
 		"author": "shawntabrizi",
 		"description": "Updated zombienet instructions to include NPM and MacOS install instructions.",
 		"evidence": "https://github.com/paritytech/zombienet/pull/1842"
