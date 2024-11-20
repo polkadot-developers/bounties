@@ -1,5 +1,15 @@
 [
 	{
+		"author": "hippiestank",
+		"description": "Provided quality feedback for two dotcodeschool.com tutorials per requests via Polkadot Forum.",
+		"evidence": {
+			"feedback_1": "https://github.com/wirednkod/papi-intro-tutorial/issues/5#issue-2642374360",
+			"feedback_2": "https://github.com/shawntabrizi/substrate-collectables-workshop/issues/190#issue-2672687717",
+			"request_1": "https://forum.polkadot.network/t/one-year-in-an-education-review/10656/7?u=hippiestank",
+			"request_2": "https://forum.polkadot.network/t/one-year-in-an-education-review/10656/2?u=hippiestank",
+		},
+	}
+	{
 		"author": "shawntabrizi",
 		"description": "Updated zombienet instructions to include NPM and MacOS install instructions.",
 		"evidence": "https://github.com/paritytech/zombienet/pull/1842"
