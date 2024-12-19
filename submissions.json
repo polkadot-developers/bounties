@@ -22,5 +22,14 @@
 			"https://medium.com/@brunopgalvao/deploying-your-first-contract-to-polkadot-in-5minutes-5cf190601b99",
 			"https://www.youtube.com/watch?v=TwT2eX58Rc8"
 		]
+	},
+	{
+		"author": "weezy20",
+		"description": "Created a developer friendly tool (local-polkadot) used to cache & spin up a polkadot-js-apps instance and run a warp-sync polkadot node requiring minimal system (just yarn) dependencies",
+		"evidence": [
+			"https://forum.polkadot.network/t/introducing-local-polkadot/10952",
+			"https://crates.io/crates/local-polkadot",
+			"https://github.com/weezy20/local-polkadot"
+		]
 	}
 ]
